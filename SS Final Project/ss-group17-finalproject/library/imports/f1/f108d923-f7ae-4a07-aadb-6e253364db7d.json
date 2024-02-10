@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "attack_b3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Player_Attack02_01": {
+      "__uuid__": "3878d4e6-ddc8-41c8-bec7-d6fff5f19aaf"
+    },
+    "Player_Attack02_02": {
+      "__uuid__": "49267333-b8ff-40bc-92b1-e7bacf8398cb"
+    },
+    "Player_Attack02_03": {
+      "__uuid__": "2d580cc3-c43c-41a1-a896-0b3cf8c465ec"
+    },
+    "Player_Attack02_04": {
+      "__uuid__": "8a0dc22e-5c83-4dd8-a2f5-29d1fdf40738"
+    },
+    "Player_Attack02_05": {
+      "__uuid__": "b766505c-d523-4f50-8344-00fc9d8c1973"
+    },
+    "Player_Attack02_06": {
+      "__uuid__": "d57409c6-1229-4f0b-81ee-b66111e753cb"
+    },
+    "Player_Attack02_07": {
+      "__uuid__": "66ed2364-8b1c-47bd-9f46-8d526f342178"
+    },
+    "Player_Attack02_08": {
+      "__uuid__": "f7e7bdee-f6d5-4994-a9e1-5566d3f56bdc"
+    },
+    "Player_Attack02_09": {
+      "__uuid__": "b2258767-e5c7-49ff-be42-9e40481d267d"
+    },
+    "Player_Attack02_10": {
+      "__uuid__": "39a10aba-71b6-43b7-bdbd-210f035ecc56"
+    },
+    "Player_Attack02_11": {
+      "__uuid__": "2076d58c-ed08-485f-ba5b-4de9c7fdc5fa"
+    },
+    "Player_Attack02_12": {
+      "__uuid__": "8cffd4d1-ec85-41a8-a6b7-225f13a618eb"
+    },
+    "Player_Attack02_13": {
+      "__uuid__": "0411ac15-cb4c-48e7-9b01-a9b189c801d4"
+    },
+    "Player_Attack02_14": {
+      "__uuid__": "17f406bd-1e01-493c-88eb-6b06483757c9"
+    }
+  }
+}

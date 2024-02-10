@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cavesofgallet_tiles",
+    "texture": "85e031db-d75c-4137-a458-49aaeb7877cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

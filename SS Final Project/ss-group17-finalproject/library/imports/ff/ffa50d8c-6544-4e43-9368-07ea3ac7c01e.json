@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cavesofgallet",
+    "texture": "e17336d2-03ca-46d4-ae1e-05f6fa78f361",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      288
+    ],
+    "offset": [
+      0,
+      112
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

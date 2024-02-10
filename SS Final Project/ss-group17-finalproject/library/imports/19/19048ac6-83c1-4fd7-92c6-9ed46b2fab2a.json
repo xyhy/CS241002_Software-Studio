@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "die_b3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Player_Death_01": {
+      "__uuid__": "e313b88a-9af0-4f2a-b49a-728ac84b91c4"
+    },
+    "Player_Death_02": {
+      "__uuid__": "1ec13904-25f0-468c-b4a0-ee196355adc4"
+    },
+    "Player_Death_03": {
+      "__uuid__": "8c52b683-d86d-48e5-b688-32ebee1176b4"
+    },
+    "Player_Death_04": {
+      "__uuid__": "3436bbb2-e784-4205-a4c3-63a7e99e5739"
+    },
+    "Player_Death_05": {
+      "__uuid__": "0c2dc6bf-c854-424c-88d9-0872515d46ef"
+    },
+    "Player_Death_06": {
+      "__uuid__": "8356df74-68ed-4c63-97c5-07a20609c10a"
+    },
+    "Player_Death_07": {
+      "__uuid__": "c0ddf1f9-ea89-4c06-97c8-250bfaa4c72b"
+    },
+    "Player_Death_08": {
+      "__uuid__": "7a82b9b6-5a45-4450-9f59-ee7cc680033d"
+    },
+    "Player_Death_09": {
+      "__uuid__": "a99a7851-4030-4f04-b63a-dac76e468d90"
+    },
+    "Player_Death_10": {
+      "__uuid__": "b4237f87-0ab1-4512-a9b0-371350084b65"
+    },
+    "Player_Death_11": {
+      "__uuid__": "92dfa5e5-0db6-4df0-80a3-47877b52f0f4"
+    },
+    "Player_Death_12": {
+      "__uuid__": "b29820cb-7893-450a-b9e2-9e7268bdde7d"
+    },
+    "Player_Death_13": {
+      "__uuid__": "88027538-1b2a-406f-9210-fbc601ebe358"
+    },
+    "Player_Death_14": {
+      "__uuid__": "aaa54726-5668-4f3e-881f-0f14aeabe1d8"
+    },
+    "Player_Death_15": {
+      "__uuid__": "f731fd21-334c-44c8-827e-7a76e48bf29a"
+    },
+    "Player_Death_16": {
+      "__uuid__": "41c84716-b297-4853-a52e-e1eb7fe0f9ee"
+    },
+    "Player_Death_17": {
+      "__uuid__": "fd20a4a2-b66b-40ba-b77b-890f7905566d"
+    }
+  }
+}

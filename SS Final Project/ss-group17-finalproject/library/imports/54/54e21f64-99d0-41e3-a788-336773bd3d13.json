@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1 Bit Forest example",
+    "texture": "8de04d96-22ea-4e9f-92a9-c811dbc983e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

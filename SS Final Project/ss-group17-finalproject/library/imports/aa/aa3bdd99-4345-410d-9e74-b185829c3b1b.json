@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "run_b3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Player_RunwSword_01": {
+      "__uuid__": "27e77fa0-4ad4-4508-9e4a-6ff6545131cd"
+    },
+    "Player_RunwSword_02": {
+      "__uuid__": "79c9f249-5fb1-485f-b09f-906cf6f92e3e"
+    },
+    "Player_RunwSword_03": {
+      "__uuid__": "056f7e7a-6572-4149-be17-b56ac93c6317"
+    },
+    "Player_RunwSword_04": {
+      "__uuid__": "cbb5eb42-698c-4bd7-8e9c-436faa3d7d80"
+    },
+    "Player_RunwSword_05": {
+      "__uuid__": "ca9f9985-0922-4ea9-ba28-7c555c6a97f8"
+    },
+    "Player_RunwSword_06": {
+      "__uuid__": "71aaf32b-06b6-4972-b5d4-9577997d60df"
+    },
+    "Player_RunwSword_07": {
+      "__uuid__": "7f5dd7be-fefb-4b57-b395-f3c197072f0f"
+    },
+    "Player_RunwSword_08": {
+      "__uuid__": "3edf1d2a-c59b-4721-a593-464eeee38e5d"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hurt.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "4692ce94-da98-449d-85c1-c80bb34594dd"
+    },
+    "tile001": {
+      "__uuid__": "a5c04689-6945-4ccf-a1a6-eef3786b07e1"
+    },
+    "tile002": {
+      "__uuid__": "8c1aa40d-23df-450a-95df-e5bef7f36fba"
+    },
+    "tile003": {
+      "__uuid__": "3b5f119d-80f9-4009-bdf0-aa410096e773"
+    },
+    "tile004": {
+      "__uuid__": "5491b8b1-d2ac-4bf7-8356-c4174515e661"
+    },
+    "tile005": {
+      "__uuid__": "b56af692-9459-4345-b102-a214db927847"
+    },
+    "tile006": {
+      "__uuid__": "5f730cba-b5de-4711-9f10-f5b96e21c305"
+    },
+    "tile007": {
+      "__uuid__": "d424b4ed-2085-49f1-86c5-d5a081ebd7f7"
+    },
+    "tile008": {
+      "__uuid__": "ccc75208-8c99-49c2-83a6-fb3c07355c00"
+    }
+  }
+}

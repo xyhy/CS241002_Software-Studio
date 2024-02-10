@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Enemy01_Death",
+    "texture": "b7b02e7e-7d30-4bf9-ad55-25218038d6f9",
+    "atlas": "",
+    "rect": [
+      22,
+      25,
+      544,
+      23
+    ],
+    "offset": [
+      -26,
+      -4.5
+    ],
+    "originalSize": [
+      640,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

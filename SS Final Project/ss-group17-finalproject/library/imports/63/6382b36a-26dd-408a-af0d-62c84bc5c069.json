@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CaveP1",
+    "texture": "f04b48ff-c533-4004-8366-c49025752373",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      270
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixel Art Plataformer Painted Style",
+    "texture": "d5c1daa0-0ad9-451a-b11f-ba18d20881b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1062,
+      616
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1062,
+      616
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "midair.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "ef89bab3-8d05-4857-ac5d-cfa2f3941ced"
+    },
+    "tile001": {
+      "__uuid__": "b31ab10d-0319-4845-8a26-d3e64a0691aa"
+    }
+  }
+}

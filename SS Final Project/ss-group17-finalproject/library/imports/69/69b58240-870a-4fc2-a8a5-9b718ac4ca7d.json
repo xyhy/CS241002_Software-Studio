@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull02_Roll_06",
+    "texture": "6616bf91-8cf3-455b-8aee-c938a1bfb2c8",
+    "atlas": "",
+    "rect": [
+      47,
+      76,
+      38,
+      41
+    ],
+    "offset": [
+      2,
+      -32.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spike_ground1",
+    "texture": "52b90ee8-0c69-4ed4-8db2-02f6277a9fc5",
+    "atlas": "53b480b3-e9cb-42a7-be0e-6aa1e54f2978",
+    "rect": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

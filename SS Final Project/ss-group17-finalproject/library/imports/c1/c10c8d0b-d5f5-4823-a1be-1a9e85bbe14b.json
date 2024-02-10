@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "B&W tile set",
+    "texture": "6ccc8308-0f69-4aad-bf13-b11979cf10e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      352,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      352,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

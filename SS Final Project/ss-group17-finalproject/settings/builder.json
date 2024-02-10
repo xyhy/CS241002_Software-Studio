@@ -1,0 +1,48 @@
+{
+  "title": "ss-group17-finalproject",
+  "packageName": "",
+  "startScene": "6c4a88c0-ee7b-4e05-bda3-f9cbb6362c13",
+  "excludeScenes": [
+    "9d418f17-4320-4fa4-8dc1-f2f58495453f",
+    "5cc886a6-e86e-4e77-938d-025d5cff51e3",
+    "243248d0-e71a-4157-aaed-48d94755c21c",
+    "d3b756c0-fd89-418e-8584-0a19f9722ce5"
+  ],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "1f5f5b5b-e705-4e",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": ""
+  },
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}

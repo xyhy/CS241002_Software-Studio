@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BGProps02_05",
+    "texture": "af36c7da-fb22-44d9-b758-ccad7d96f37c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

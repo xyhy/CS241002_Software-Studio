@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Wasteland-Files",
+    "texture": "9c22eb0b-2066-41b1-bfcd-25de9e1c77bd",
+    "atlas": "",
+    "rect": [
+      96,
+      96,
+      320,
+      112
+    ],
+    "offset": [
+      0,
+      -24
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

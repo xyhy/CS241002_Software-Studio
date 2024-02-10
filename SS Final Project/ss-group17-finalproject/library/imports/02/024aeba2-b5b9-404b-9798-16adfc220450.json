@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "attack_idle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "NinjaAttack_01": {
+      "__uuid__": "a7e4240d-7258-425c-a905-004d3a0ef7e1"
+    },
+    "NinjaAttack_02": {
+      "__uuid__": "cd11f2dc-db6c-4f89-b80a-34ebecb18ddb"
+    },
+    "NinjaAttack_03": {
+      "__uuid__": "7cb75911-4f83-4797-a903-a2838fd928e5"
+    },
+    "NinjaAttack_04": {
+      "__uuid__": "d0771fbb-fc46-441b-9332-7e0d40f3af60"
+    },
+    "NinjaAttack_05": {
+      "__uuid__": "f562c717-bf70-4d13-af97-fff31a3597ff"
+    },
+    "NinjaAttack_06": {
+      "__uuid__": "e6daaef1-23c0-4f88-88ae-a1ae866401b5"
+    },
+    "NinjaAttack_07": {
+      "__uuid__": "c8817a2f-c4d6-4d98-8aa9-abe69141296e"
+    },
+    "NinjaAttack_08": {
+      "__uuid__": "27c9ab63-575e-4c1c-9b37-87f786216836"
+    },
+    "NinjaAttack_09": {
+      "__uuid__": "5701617c-8fa6-44fb-bfcf-c4a0a2a92cd9"
+    },
+    "NinjaAttack_10": {
+      "__uuid__": "251c22e1-1bcb-4b2e-8b5b-8696dca683e8"
+    },
+    "NinjaAttack_11": {
+      "__uuid__": "1fa37b35-8928-46fd-a353-a0ac41002f61"
+    },
+    "NinjaAttack_12": {
+      "__uuid__": "1beb0ab6-55b4-4796-a143-066d09220c05"
+    },
+    "NinjaAttack_13": {
+      "__uuid__": "73ad98c2-b1c5-4e47-ba88-1bf32ef81e2e"
+    },
+    "NinjaAttack_14": {
+      "__uuid__": "591cf28a-0027-4076-8b63-a69f0f41facb"
+    },
+    "NinjaAttack_15": {
+      "__uuid__": "8e0d283a-6d02-41d8-9ec7-ce425121efe2"
+    }
+  }
+}

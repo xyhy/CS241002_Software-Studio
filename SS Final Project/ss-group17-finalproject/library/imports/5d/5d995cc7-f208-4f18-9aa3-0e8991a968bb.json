@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Clean-Desert-Retro-Lines",
+    "texture": "cd98f648-fed3-4c8a-b1e0-a7b2ef08be5a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      128
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      320,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

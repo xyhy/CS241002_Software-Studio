@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "title_glitch",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8e47831e-392c-4654-8fe7-7537dd8e7194"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "273177ef-04fb-4b6f-a289-337c5516cdca"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "387f3540-7aa5-4092-8b42-981b90ca2097"
+            }
+          },
+          {
+            "frame": 0.18333333333333332,
+            "value": {
+              "__uuid__": "7a9390d8-5d26-499e-84f7-81d51276dd4a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "8e47831e-392c-4654-8fe7-7537dd8e7194"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

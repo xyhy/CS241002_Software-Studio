@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jungle tileset",
+    "texture": "65a5032a-bf72-4833-8be0-3beb56c5a383",
+    "atlas": "",
+    "rect": [
+      16,
+      16,
+      736,
+      320
+    ],
+    "offset": [
+      0,
+      8
+    ],
+    "originalSize": [
+      768,
+      368
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

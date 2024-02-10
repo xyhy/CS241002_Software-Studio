@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rune_Stone_07",
+    "texture": "add504dc-dcc8-4e59-b3ca-9ef2f528c93d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

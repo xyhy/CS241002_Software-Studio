@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Retro-Lines-Enemies",
+    "texture": "dd9bd97d-5274-4a62-b312-92673bfd1cda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      176
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

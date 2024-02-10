@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Clean-Winter-Retro-Lines",
+    "texture": "88b23f2f-2952-4112-a2f4-4e5a0d9816c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      128
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      240,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

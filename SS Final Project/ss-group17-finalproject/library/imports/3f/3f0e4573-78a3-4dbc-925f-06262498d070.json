@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull02_Hit_09",
+    "texture": "950ac1ba-1a6a-4788-a561-b4c238efd428",
+    "atlas": "",
+    "rect": [
+      33,
+      70,
+      45,
+      42
+    ],
+    "offset": [
+      -8.5,
+      -27
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixel Art Snowy Forest",
+    "texture": "1a970736-2617-4743-a6ec-c751a7947f04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1062,
+      616
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1062,
+      616
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

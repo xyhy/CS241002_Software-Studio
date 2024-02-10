@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Neon02",
+    "texture": "c59e787a-af7e-49ee-b391-1eb25858287a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4950,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4950,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

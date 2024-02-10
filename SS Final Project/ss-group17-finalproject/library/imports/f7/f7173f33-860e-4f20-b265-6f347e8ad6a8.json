@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Wasteland_Mountains_1",
+    "texture": "9b43b968-d45d-4f82-9296-1d06f59a6d8b",
+    "atlas": "",
+    "rect": [
+      0,
+      100,
+      512,
+      156
+    ],
+    "offset": [
+      0,
+      -50
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

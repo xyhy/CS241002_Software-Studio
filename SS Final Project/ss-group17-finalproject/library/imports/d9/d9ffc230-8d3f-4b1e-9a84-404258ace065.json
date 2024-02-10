@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Enemy01_Death_05",
+    "texture": "c46dcaba-966d-4fae-9274-08153c69e89b",
+    "atlas": "26ce82a4-54e1-466b-b6dc-65ffbc56b1be",
+    "rect": [
+      324,
+      0,
+      81,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

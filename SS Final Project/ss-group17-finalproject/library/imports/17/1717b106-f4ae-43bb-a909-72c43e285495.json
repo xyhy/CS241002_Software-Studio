@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Artefact",
+    "texture": "6c274b3a-266a-4c2b-938e-c71788d8ef20",
+    "atlas": "",
+    "rect": [
+      12,
+      5,
+      1256,
+      59
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      1280,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

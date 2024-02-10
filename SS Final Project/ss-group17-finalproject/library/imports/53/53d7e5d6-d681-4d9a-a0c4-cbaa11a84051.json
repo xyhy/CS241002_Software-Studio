@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dead.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Enemy02_Death_01": {
+      "__uuid__": "d29173b8-3025-4bdf-855f-8d12467ba86d"
+    },
+    "Enemy02_Death_02": {
+      "__uuid__": "6b7bca67-d2fa-46c6-b664-a16dac27b5f8"
+    },
+    "Enemy02_Death_03": {
+      "__uuid__": "0da62049-8562-4be9-8f0e-aaa6d9745e69"
+    },
+    "Enemy02_Death_04": {
+      "__uuid__": "66703ff6-ee13-4b33-94dc-9dabc657c8c5"
+    },
+    "Enemy02_Death_05": {
+      "__uuid__": "18205a57-c57a-496c-97bf-62386f20a809"
+    },
+    "Enemy02_Death_06": {
+      "__uuid__": "ba30bf51-7d11-4e0e-be14-0e461a4bc907"
+    },
+    "Enemy02_Death_07": {
+      "__uuid__": "887d0694-9c7d-40be-8807-09aca118178e"
+    },
+    "Enemy02_Death_08": {
+      "__uuid__": "2a2408ad-5958-4d31-85fc-bc806243abc7"
+    },
+    "Enemy02_Death_09": {
+      "__uuid__": "d7ff159e-e1fa-4231-bee9-99617f52cc22"
+    },
+    "Enemy02_Death_10": {
+      "__uuid__": "db10ce61-017e-4c81-9ffe-93add03db4a4"
+    },
+    "Enemy02_Death_11": {
+      "__uuid__": "e1c331c3-ff68-4584-966e-2b152ab7b85c"
+    }
+  }
+}

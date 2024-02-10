@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull02_Idle_03",
+    "texture": "df28ab05-fe70-4c70-8541-828b230a1c35",
+    "atlas": "",
+    "rect": [
+      42,
+      69,
+      38,
+      43
+    ],
+    "offset": [
+      -3,
+      -26.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

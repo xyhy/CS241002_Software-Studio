@@ -1,0 +1,73 @@
+body{
+    height:100vh;
+}
+
+#animate {
+    animation-duration:1s;
+    animation-name: ani;
+    font-size: 300px;
+    font-weight: bold;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    letter-spacing: 5px;
+    text-align: center;
+    animation-fill-mode: forwards;
+}
+
+/* #loading-bar {
+    animation-duration: 1s;
+    animation-name: slide;
+    border: 3px solid white;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+#loading-bar {
+    font-size: 24px;
+    background-color: green;
+}
+
+@keyframes ani{
+    0% {
+        background: white;
+    }
+    10% {
+        background: linear-gradient(to bottom, gray 0%, white 15%);
+    }
+    20% {
+        background: linear-gradient(to bottom, gray 10%, white 25%);
+    }
+    30% {
+        background: linear-gradient(to bottom, gray 20%, white 35%);
+    }
+    40% {
+        background: linear-gradient(to bottom, gray 30%, white 45%);
+    }
+    50% {
+        background: linear-gradient(to bottom, gray 40%, white 55%);
+    }
+    60% {
+        background: linear-gradient(to bottom, gray 50%, white 65%);
+    }
+    70% {
+        background: linear-gradient(to bottom, gray 60%, white 75%);
+    }
+    80% {
+        background: linear-gradient(to bottom, gray 70%, white 85%);
+    }
+    90% {
+        background: linear-gradient(to bottom, gray 80%, white 95%);
+    }
+    100% {
+        background-color: gray;
+    }
+}
+/* 
+@keyframes slide {
+    0% {
+
+    }
+} */

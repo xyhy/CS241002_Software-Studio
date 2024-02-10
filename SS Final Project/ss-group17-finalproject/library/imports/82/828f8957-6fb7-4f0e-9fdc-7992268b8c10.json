@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "stars.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ShootingStar_01": {
+      "__uuid__": "8cae5a06-589b-47ca-85ac-3f9f18c8076a"
+    },
+    "ShootingStar_02": {
+      "__uuid__": "ccfecd0a-ecf8-44df-b3bc-a228d744b3b8"
+    },
+    "ShootingStar_03": {
+      "__uuid__": "0e4ef9d7-4ba4-4a35-a3af-82a48ee7d2c2"
+    },
+    "ShootingStar_04": {
+      "__uuid__": "145fabb9-bdcd-4185-aaac-fba7475270c0"
+    },
+    "ShootingStar_05": {
+      "__uuid__": "dbc2ca77-0d04-4e7e-a1bd-5e80ad85c22e"
+    },
+    "ShootingStar_06": {
+      "__uuid__": "565f80db-db39-480f-aab4-58a42fd75bf9"
+    },
+    "ShootingStar_07": {
+      "__uuid__": "f036a61e-0a55-4038-ac65-92d0a4f44a1f"
+    },
+    "ShootingStar_08": {
+      "__uuid__": "bcf085c8-99c6-47cf-8b2c-5d638be7ecf7"
+    }
+  }
+}

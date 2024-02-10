@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "regain_gem",
+    "texture": "41dbff3a-e4a5-48c2-9d6e-dcd24e25205e",
+    "atlas": "",
+    "rect": [
+      5,
+      37,
+      833,
+      787
+    ],
+    "offset": [
+      1.5,
+      -1
+    ],
+    "originalSize": [
+      840,
+      859
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

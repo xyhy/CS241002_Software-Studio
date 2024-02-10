@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sky",
+    "texture": "2e38d3b6-20b6-4a69-b5ef-2b9d5dd0ec3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      270
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

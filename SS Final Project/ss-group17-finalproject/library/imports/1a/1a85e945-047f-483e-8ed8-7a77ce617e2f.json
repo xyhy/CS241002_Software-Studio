@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Dialogue_LoadingAnimation",
+    "texture": "fadb0649-4e2b-4cc3-92a1-4e6d74cf64b8",
+    "atlas": "",
+    "rect": [
+      131,
+      113,
+      2938,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      3200,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

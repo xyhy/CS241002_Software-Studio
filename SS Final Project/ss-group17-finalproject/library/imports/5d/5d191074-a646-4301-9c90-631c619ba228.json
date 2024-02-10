@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enter_key",
+    "texture": "4461bd4e-b188-4ddb-a8bb-a2b23db89a43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      431,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      431,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

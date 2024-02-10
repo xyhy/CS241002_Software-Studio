@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "turn.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "575816f6-ffd3-482b-8e84-161c8c600b42"
+    },
+    "tile001": {
+      "__uuid__": "6fe8ad5e-2bfe-45f0-b67f-bac737f0f8ba"
+    },
+    "tile002": {
+      "__uuid__": "2f5ccbea-55e6-4971-b4ad-e4abe1e5bbcb"
+    },
+    "tile003": {
+      "__uuid__": "586d32fa-bdad-4ebf-94cb-6908df184dd4"
+    },
+    "tile004": {
+      "__uuid__": "8bbd9644-f950-4327-a5c6-7be5b5e2a4d7"
+    }
+  }
+}

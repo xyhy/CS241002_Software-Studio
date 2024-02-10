@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Forest-Retro-Lines",
+    "texture": "90ac7871-0683-4202-a73e-23026049539a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

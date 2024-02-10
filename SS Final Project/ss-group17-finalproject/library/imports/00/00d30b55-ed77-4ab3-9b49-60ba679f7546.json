@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Full-Retro-Lines-Tiles",
+    "texture": "23419223-b976-47d5-8411-4e2bbf37c3ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      384
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      384
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

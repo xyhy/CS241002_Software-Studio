@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "landing",
+    "texture": "64eab453-c303-49a4-9775-b0a7271dbf66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

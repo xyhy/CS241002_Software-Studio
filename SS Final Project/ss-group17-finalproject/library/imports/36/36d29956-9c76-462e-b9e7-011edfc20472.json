@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "block_b3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Player_Parry_01": {
+      "__uuid__": "f3c2f55f-03ad-4af7-b863-f5fc964adecc"
+    },
+    "Player_Parry_02": {
+      "__uuid__": "6e128463-2a82-457b-a639-03014e5c01b7"
+    },
+    "Player_Parry_03": {
+      "__uuid__": "25a873f7-c203-480e-8f64-a4f5b84dbff4"
+    },
+    "Player_Parry_04": {
+      "__uuid__": "fd16b359-d459-440f-96e0-6ac709d085ca"
+    },
+    "Player_Parry_05": {
+      "__uuid__": "08052d37-06c2-447a-922c-c9a77f9c7dca"
+    },
+    "Player_Parry_06": {
+      "__uuid__": "96799a50-08cc-4fdb-af9e-add753eb2921"
+    },
+    "Player_Parry_07": {
+      "__uuid__": "ba52adc7-718b-401c-ba8e-e9245800d8cf"
+    },
+    "Player_Parry_08": {
+      "__uuid__": "16f0a154-072c-44f1-9679-38f06cbf8f67"
+    },
+    "Player_Parry_09": {
+      "__uuid__": "e4f29678-5fc7-4743-aad4-6cda86260e05"
+    },
+    "Player_Parry_10": {
+      "__uuid__": "07fc54b5-e468-4368-b178-05120e29a71e"
+    }
+  }
+}

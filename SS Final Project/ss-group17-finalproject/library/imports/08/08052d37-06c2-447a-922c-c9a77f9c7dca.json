@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_Parry_05",
+    "texture": "2e9a7099-9eed-4b2e-b5dc-673387c23e7c",
+    "atlas": "36d29956-9c76-462e-b9e7-011edfc20472",
+    "rect": [
+      356,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

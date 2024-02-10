@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Fx_Hit_10",
+    "texture": "de4e6530-27a8-4005-a695-2a108030d342",
+    "atlas": "",
+    "rect": [
+      25,
+      5,
+      39,
+      56
+    ],
+    "offset": [
+      -8.5,
+      5
+    ],
+    "originalSize": [
+      106,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

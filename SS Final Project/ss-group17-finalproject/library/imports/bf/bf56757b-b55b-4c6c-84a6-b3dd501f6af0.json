@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Spikes",
+    "texture": "bdbea9e9-bc6e-41bb-9b7f-3417a1d98263",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

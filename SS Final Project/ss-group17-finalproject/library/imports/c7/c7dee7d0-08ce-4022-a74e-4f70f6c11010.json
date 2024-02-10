@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ShootingStar_03",
+    "texture": "2fe6db23-9acf-44d0-acd7-ad14fe102e8f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      15,
+      15
+    ],
+    "offset": [
+      -31.5,
+      31.5
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

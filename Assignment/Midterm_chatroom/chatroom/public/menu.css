@@ -1,0 +1,15 @@
+#room-folder {
+    margin-left: -3px;
+    margin-right: 2px;
+    float: left;
+}
+
+#new-room-btn {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.container {
+    margin-left: 150px;
+}

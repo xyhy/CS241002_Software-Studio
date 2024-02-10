@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "flag_w.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Flag_03_01": {
+      "__uuid__": "8de9eef4-ced8-4b57-8949-d667052d9155"
+    },
+    "Flag_03_02": {
+      "__uuid__": "c4f4eaa3-a050-4b8f-98ef-4e38b56a012d"
+    },
+    "Flag_03_03": {
+      "__uuid__": "c301d1ea-4418-4f6f-8cb0-c9e584b76533"
+    },
+    "Flag_03_04": {
+      "__uuid__": "8c9767ee-f31f-439d-91cf-b35d4ab7431c"
+    },
+    "Flag_03_05": {
+      "__uuid__": "03f4e3f5-4707-462f-98df-a594776cca7e"
+    },
+    "Flag_03_06": {
+      "__uuid__": "7f9c0b10-6cde-4da2-afd2-d192f3ea4677"
+    },
+    "Flag_03_07": {
+      "__uuid__": "51bc468a-1f6c-441f-80bd-f3d910f24a69"
+    },
+    "Flag_03_08": {
+      "__uuid__": "b7a07252-0443-4848-809d-b62ada674d47"
+    },
+    "Flag_03_09": {
+      "__uuid__": "98a6a793-70d2-4821-a661-e0c728abe5c7"
+    },
+    "Flag_03_10": {
+      "__uuid__": "400317b0-3811-4893-8e11-8eb8191d45ab"
+    },
+    "Flag_03_11": {
+      "__uuid__": "7589861e-dee5-42bb-9402-345582c37f1e"
+    },
+    "Flag_03_12": {
+      "__uuid__": "5e13b9d7-3393-4690-8fc4-aab696f926de"
+    }
+  }
+}

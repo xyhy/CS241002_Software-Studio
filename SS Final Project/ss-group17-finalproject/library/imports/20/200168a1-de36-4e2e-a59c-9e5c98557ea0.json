@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rune_Flags_01",
+    "texture": "0b18e2e2-44dc-4edb-9eca-b7549b89f730",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      9,
+      11
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      9,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

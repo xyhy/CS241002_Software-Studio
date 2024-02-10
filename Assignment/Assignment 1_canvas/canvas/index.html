@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>108062213_Canvas</title>
+        <link href="./index.css" rel="stylesheet">
+    </head>
+
+    <body style="background-color:LightGray;" onload="events()" onkeydown="keyinput(event)" onkeypress="keyinput_press(event)">
+    <div id="painting">
+        <table style="width:100%; table-layout:auto;" border="0" cellpadding="0">
+            <tr class="row">
+                <td>
+                    <button class="btn" onclick="mode_pencil()"><img src="./img/pencil.png" style="width:50px;" "height:50px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="mode_rectangle()"><img src="./img/rect.png" style="width:45px; height:45px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="mode_circle()"><img src="./img/circle.png" style="width:45px; height:45px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="mode_triangle()"><img src="./img/triangle.png" style="width:50px; height:50px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="mode_eraser()"><img src="./img/eraser.png" style="width:50px; height:50px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="reload()"><img src="./img/refresh.png" style="width:50px; height:50px;"></button>
+                </td>
+            </tr>
+            <tr class="row">
+                <td>
+                    <button class="btn" onclick="mode_text()"><img src="./img/text.png" style="width:75px; height:45px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="undo()"><img src="./img/undo.png" style="width:50px;" "height:50px;"></button>
+                </td>
+                <td>
+                    <button class="btn" onclick="redo()"><img src="./img/redo.png" style="width:50px; height:50px;"></button>
+                </td>
+                <td>
+                    <a id="download" download="Canvas">
+                    <button class="btn" onclick="download()"><img src="./img/download.png" style="width:45px; height:45px;"></button>
+                    </a>
+                </td>
+                <td>
+                    <label class="btn_label">
+                        <img src="./img/upload.png" style="width:50px; height:50px">
+                        <input type="file" id="fake_upload" accept="image/png, image/jpeg" onchange="previewFile()">
+                        <img src="" id="after_upload" alt="Image loading..." width="20" height="20" onload="getfile()">
+                    </label>
+                </td>
+                <td> <input type="color" id="color"> </td>
+            </tr>
+            <tr class="row">
+                <td id="bar_text">width<input type="range" id="bar" min="0" max="10" step="0.01" value="1"></td>
+                <td> <label for="fonts">fonts</label>
+                    <select id="fonts">
+                    <option value="Serif">Serif</option>
+                    <option value="Sans-serif">Sans-serif</option>
+                    <option value="Monospace">Monospace</option>
+                    <option value="Cursive">Cursive</option>
+                    <option value="Fantasy">Fantasy</option>
+                </td>
+                <td id="fontsize">size <input type="number" id="font_size" min="1" max="100" value="20"></td>
+            </tr>
+        </table>
+        <canvas id="canvas" width="450" height="450"></canvas>
+        
+    </div>
+        <script src="./index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "d76243c3-4787-48b7-a2f8-6888a344319f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Skull01_Attack_17": {
+      "ver": "1.0.4",
+      "uuid": "62db7713-8aaa-4cd1-8748-ee63bfb023fc",
+      "rawTextureUuid": "d76243c3-4787-48b7-a2f8-6888a344319f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": -17.5,
+      "trimX": 32,
+      "trimY": 49,
+      "width": 80,
+      "height": 65,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

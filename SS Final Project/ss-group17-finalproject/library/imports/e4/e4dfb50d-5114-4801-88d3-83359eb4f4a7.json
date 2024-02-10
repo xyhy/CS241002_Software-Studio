@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FX008",
+    "texture": "cbc29a02-c309-46a2-8ea1-1583fca81208",
+    "atlas": "9373a60c-6030-43a5-8172-057799720ff4",
+    "rect": [
+      448,
+      0,
+      64,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

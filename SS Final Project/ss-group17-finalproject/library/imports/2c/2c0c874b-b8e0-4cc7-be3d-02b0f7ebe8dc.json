@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_Enemy01_Move",
+    "texture": "ac4ecef0-ad47-4702-b157-360fa231e53d",
+    "atlas": "",
+    "rect": [
+      22,
+      25,
+      1055,
+      23
+    ],
+    "offset": [
+      5.5,
+      -4.5
+    ],
+    "originalSize": [
+      1088,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

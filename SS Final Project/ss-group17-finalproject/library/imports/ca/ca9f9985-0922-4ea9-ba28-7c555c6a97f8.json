@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_RunwSword_05",
+    "texture": "6ed9a593-4d01-4fb8-a834-11e9369aa0af",
+    "atlas": "aa3bdd99-4345-410d-9e74-b185829c3b1b",
+    "rect": [
+      356,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

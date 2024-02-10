@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerb_hang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.24,
+  "sample": 25,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "92c703d4-5187-4d67-9f83-b54a7b4983cf"
+            }
+          },
+          {
+            "frame": 0.04,
+            "value": {
+              "__uuid__": "3e74802c-46d5-489e-b7df-37f055550cde"
+            }
+          },
+          {
+            "frame": 0.08,
+            "value": {
+              "__uuid__": "fed5c78b-74db-433a-b661-ebe831728c01"
+            }
+          },
+          {
+            "frame": 0.12,
+            "value": {
+              "__uuid__": "8bde8301-c9a0-4417-88ba-82ea80ac99e4"
+            }
+          },
+          {
+            "frame": 0.16,
+            "value": {
+              "__uuid__": "6ab1ec66-b500-43ff-b8e6-7d9595c2da34"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d7b985b2-ac76-4234-bac5-8c303648ee95"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

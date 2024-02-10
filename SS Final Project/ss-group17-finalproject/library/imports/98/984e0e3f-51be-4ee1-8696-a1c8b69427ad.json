@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Grass03",
+    "texture": "59c48699-dd05-4270-b28b-ac153d50f937",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

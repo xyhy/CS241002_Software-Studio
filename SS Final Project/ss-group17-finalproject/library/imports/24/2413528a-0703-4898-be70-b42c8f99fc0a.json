@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "attack.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Enemy01_Attack_01": {
+      "__uuid__": "2737488f-8b8a-474c-9755-eb063fd43b95"
+    },
+    "Enemy01_Attack_02": {
+      "__uuid__": "ed443350-3b18-46a4-902e-5eb694667695"
+    },
+    "Enemy01_Attack_03": {
+      "__uuid__": "915bf193-b2a1-4675-8907-c0f73d6ec7f9"
+    },
+    "Enemy01_Attack_04": {
+      "__uuid__": "d395f95b-6ef7-4f6f-8bd8-2fb55cc1ccdb"
+    },
+    "Enemy01_Attack_05": {
+      "__uuid__": "53f36500-0192-4de1-908b-cd8fc6f6498b"
+    },
+    "Enemy01_Attack_06": {
+      "__uuid__": "6040766c-575e-4877-bb91-16f5cacae40a"
+    },
+    "Enemy01_Attack_07": {
+      "__uuid__": "2d7a9840-779b-4373-b50a-1f6ac9c5e375"
+    },
+    "Enemy01_Attack_08": {
+      "__uuid__": "4e0a2100-ae08-4cda-b8f9-fc89eb1bec84"
+    },
+    "Enemy01_Attack_09": {
+      "__uuid__": "e238e9ce-6aa2-40e4-b8a9-40c025c1c697"
+    },
+    "Enemy01_Attack_10": {
+      "__uuid__": "bc2952a4-121a-4cc9-af42-b51f4e2161c1"
+    },
+    "Enemy01_Attack_11": {
+      "__uuid__": "0a61da64-8bc6-48b1-aeaa-a8f87d41ac3a"
+    },
+    "Enemy01_Attack_12": {
+      "__uuid__": "c229ee36-eace-42df-867e-5bdaaaa9e60d"
+    },
+    "Enemy01_Attack_13": {
+      "__uuid__": "968e49cb-c8ed-427e-bca1-907d7b9c10a7"
+    },
+    "Enemy01_Attack_14": {
+      "__uuid__": "ba8c2b80-574d-41a4-bf1b-52e66da04799"
+    },
+    "Enemy01_Attack_15": {
+      "__uuid__": "c21ccae1-fe27-4efb-a417-5a2388832ddd"
+    },
+    "Enemy01_Attack_16": {
+      "__uuid__": "cf124dd2-5212-473b-a0ae-f176364d9e43"
+    },
+    "Enemy01_Attack_17": {
+      "__uuid__": "bfc8af58-f247-4b74-a5f3-27cc4a79c965"
+    },
+    "Enemy01_Attack_18": {
+      "__uuid__": "b602e584-5dd6-4470-8e6d-8e99842b71bb"
+    },
+    "Enemy01_Attack_19": {
+      "__uuid__": "f9f1fd74-4808-40f4-9c0f-3157ddba5313"
+    },
+    "Enemy01_Attack_20": {
+      "__uuid__": "ff18fdda-366d-4c0f-82bf-d3f913c21f87"
+    },
+    "Enemy01_Attack_21": {
+      "__uuid__": "705be1a8-5e7c-42d1-9906-4e452e92f76b"
+    }
+  }
+}

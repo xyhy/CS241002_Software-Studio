@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "landing outline",
+    "texture": "d6a0a4df-af99-43d5-8d8d-4bab09e600ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

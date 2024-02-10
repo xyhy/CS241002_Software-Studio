@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Interior",
+    "texture": "5b1ffe7c-a718-4536-b7a7-774660c9b389",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      224
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

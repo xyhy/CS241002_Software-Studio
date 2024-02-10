@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "win_b3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Player_PutAwaySword_01": {
+      "__uuid__": "a5bd1c5d-07f7-4169-957c-11c7c3bfeb07"
+    },
+    "Player_PutAwaySword_02": {
+      "__uuid__": "36cf556a-2b74-4b54-93f9-c48437691d8b"
+    },
+    "Player_PutAwaySword_03": {
+      "__uuid__": "2667c27a-235a-478b-aae0-eb45b7356b13"
+    },
+    "Player_PutAwaySword_04": {
+      "__uuid__": "6d611ada-ccf0-4f90-9094-e0a29af87e85"
+    },
+    "Player_PutAwaySword_05": {
+      "__uuid__": "93eb4263-cd96-4242-aee0-4dfd717ccbbc"
+    },
+    "Player_PutAwaySword_06": {
+      "__uuid__": "2492d2a1-8a04-459f-8ee4-af2489787f00"
+    },
+    "Player_PutAwaySword_07": {
+      "__uuid__": "f33cba7b-311c-41fe-855b-25a85c263aa1"
+    },
+    "Player_PutAwaySword_08": {
+      "__uuid__": "789087f2-347b-4c5e-b248-5ab83b508a4f"
+    },
+    "Player_PutAwaySword_09": {
+      "__uuid__": "d25bafe2-3c0f-4106-a024-70b4a75a13a7"
+    },
+    "Player_PutAwaySword_10": {
+      "__uuid__": "68bc534f-3ce1-49ab-af5d-72f697cb546a"
+    },
+    "Player_PutAwaySword_11": {
+      "__uuid__": "97df8a7d-77d5-478c-b85f-c7be30b72f21"
+    },
+    "Player_PutAwaySword_12": {
+      "__uuid__": "f5a4dfbd-282f-47c3-aeca-a94cba6744ff"
+    },
+    "Player_PutAwaySword_13": {
+      "__uuid__": "16c59dc5-6a6b-42eb-99c0-e2a909b51bc6"
+    },
+    "Player_PutAwaySword_14": {
+      "__uuid__": "8666db3d-afaa-4a98-b173-1f6f853bb219"
+    },
+    "Player_PutAwaySword_15": {
+      "__uuid__": "ee3f4b9c-a351-45ba-bfa9-55c31ae9e428"
+    },
+    "Player_PutAwaySword_16": {
+      "__uuid__": "4c4ec47d-c647-43f0-86bd-077feea43bd6"
+    },
+    "Player_PutAwaySword_17": {
+      "__uuid__": "65525e22-8a53-4b4d-baf7-7195cfbe13b3"
+    },
+    "Player_PutAwaySword_18": {
+      "__uuid__": "9ccb039f-25c4-4c0a-a320-e98011fde9ef"
+    },
+    "Player_PutAwaySword_19": {
+      "__uuid__": "f6d16cc4-0fd8-463b-95f5-d9d510bb03f4"
+    },
+    "Player_PutAwaySword_20": {
+      "__uuid__": "e4fa553e-caa0-4489-ba8e-63c1b170fce2"
+    },
+    "Player_PutAwaySword_21": {
+      "__uuid__": "1d5e4bd6-ae2e-401b-8e66-ba98086ce9e0"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Enemy01_Idle_06",
+    "texture": "b48db37d-16dd-4556-ad30-b90d3417a985",
+    "atlas": "1edb8980-7dd1-4c13-bbf8-6d050ec023df",
+    "rect": [
+      405,
+      0,
+      81,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

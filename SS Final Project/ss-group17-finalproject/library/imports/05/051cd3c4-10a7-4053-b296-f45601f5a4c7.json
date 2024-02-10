@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Trees_and_etc",
+    "texture": "44866bc3-c873-435e-af71-cc6cded83d6a",
+    "atlas": "",
+    "rect": [
+      17,
+      25,
+      239,
+      87
+    ],
+    "offset": [
+      -13.5,
+      16.5
+    ],
+    "originalSize": [
+      300,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

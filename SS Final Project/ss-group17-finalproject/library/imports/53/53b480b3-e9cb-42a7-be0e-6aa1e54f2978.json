@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "spikes_ch1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "spike_ground1": {
+      "__uuid__": "ebde23a0-d3af-423e-92ac-e1f0e41107a5"
+    },
+    "spike_ground2": {
+      "__uuid__": "0ac98617-c1f6-4c52-8994-a06f78b10186"
+    },
+    "spike_ground3": {
+      "__uuid__": "31a0c737-ea96-42b9-af19-944417876ab0"
+    },
+    "spike_ground4": {
+      "__uuid__": "7e23b35f-f088-4a9f-b8c3-f0b63b513841"
+    },
+    "spike_ground5": {
+      "__uuid__": "445200c9-723d-4491-b58d-d50af156a640"
+    },
+    "spike_ground6": {
+      "__uuid__": "2da3c275-f233-412d-b554-5fd209f240e1"
+    }
+  }
+}

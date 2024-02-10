@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ruin_01",
+    "texture": "faef758b-30e0-47aa-a311-64b65825fd2c",
+    "atlas": "",
+    "rect": [
+      33,
+      32,
+      72,
+      64
+    ],
+    "offset": [
+      5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

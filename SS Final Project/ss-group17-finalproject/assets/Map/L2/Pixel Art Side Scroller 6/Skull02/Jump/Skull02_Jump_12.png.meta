@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "4f30d2a2-4da9-41c5-9245-2ae33c98fe76",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Skull02_Jump_12": {
+      "ver": "1.0.4",
+      "uuid": "a04805c2-9c38-4560-b0ce-4758b5481004",
+      "rawTextureUuid": "4f30d2a2-4da9-41c5-9245-2ae33c98fe76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -21,
+      "trimX": 42,
+      "trimY": 63,
+      "width": 37,
+      "height": 44,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

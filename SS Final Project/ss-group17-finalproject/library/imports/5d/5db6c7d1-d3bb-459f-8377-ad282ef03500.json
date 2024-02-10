@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NinjaAttack_16",
+    "texture": "727add51-2260-4d63-858d-b125deb9bcd1",
+    "atlas": "0e1f85a6-06c9-471d-a86f-fbe2bbf25dfe",
+    "rect": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

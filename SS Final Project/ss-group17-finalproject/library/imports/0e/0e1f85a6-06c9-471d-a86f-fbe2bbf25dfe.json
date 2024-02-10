@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hurt.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "NinjaAttack_16": {
+      "__uuid__": "5db6c7d1-d3bb-459f-8377-ad282ef03500"
+    },
+    "NinjaAttack_17": {
+      "__uuid__": "cf5a85fd-5a44-4d60-a519-1548eec7fa3d"
+    },
+    "NinjaAttack_18": {
+      "__uuid__": "826fb155-3915-4abd-b3d9-fb6ce70ed652"
+    },
+    "NinjaAttack_19": {
+      "__uuid__": "a0ee06e6-0f84-4961-a4cd-85eeea872e87"
+    },
+    "NinjaAttack_20": {
+      "__uuid__": "8c02f8ed-5ab5-497f-86fa-e7ea0cd850ed"
+    },
+    "NinjaAttack_21": {
+      "__uuid__": "c3e3468f-3cfa-40cf-808c-bb55fef2599b"
+    },
+    "NinjaAttack_22": {
+      "__uuid__": "e57c0fac-fb6e-4c01-81ef-fbea8e9cb92d"
+    },
+    "NinjaAttack_23": {
+      "__uuid__": "0de0c89d-d2b3-4148-9f80-9166712b031f"
+    }
+  }
+}

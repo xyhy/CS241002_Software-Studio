@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "extras  tileset",
+    "texture": "76170cf7-a152-4e40-be6e-8b87543c7af0",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      219,
+      96
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      224,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

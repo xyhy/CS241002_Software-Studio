@@ -1,0 +1,102 @@
+#canvas {
+    background-color:white;
+}
+
+#painting { 
+    background-color: #4F4E52;
+    width: 600px;
+    margin: auto;
+}
+
+
+#fake_upload {
+    display: none;
+}
+
+#after_upload {
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+
+#color {
+    width: 50px;
+    height: 50px;
+    top: 5%;
+    left:14%;
+}
+
+#bar {
+    width:100px;
+    height: 5px;
+    left: 50px;
+}
+
+#fontsize {
+    color : white;
+    font-family: "Times New Roman", serif;
+}
+
+#bar_text {
+    color : white;
+    font-family: "Times New Roman", serif;
+}
+
+table {
+    display: table;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    text-indent: 0;
+    border-spacing: 0px;
+    border-color: grey;
+}
+
+label {
+    font-family: "Times New Roman", serif;
+    color: white;
+}
+
+td {
+    width: 100px;
+}
+
+.row {
+    text-align:center;
+}
+
+
+.btn {
+    background-color: #8C8A91;
+    width: 55px; 
+    height: 55px;
+    border-radius:10%;
+    overflow: hidden;
+}
+
+.btn img {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+
+.btn_label {
+    background-color: #8C8A91;
+    position: relative;
+    width: 55px; 
+    height: 55px;
+    border-radius:10%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.btn_label:hover {
+    background-color: #ffffff;
+    overflow: hidden;
+}

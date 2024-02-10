@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull01_Attack_31",
+    "texture": "003eebe7-ad23-4be7-9cb7-ac7a7574bc6b",
+    "atlas": "",
+    "rect": [
+      42,
+      79,
+      31,
+      33
+    ],
+    "offset": [
+      -6.5,
+      -31.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

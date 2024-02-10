@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Enemy01_Attack_09",
+    "texture": "52188585-7a96-44be-8170-2b107e52c5ae",
+    "atlas": "2413528a-0703-4898-be70-b42c8f99fc0a",
+    "rect": [
+      624,
+      0,
+      78,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

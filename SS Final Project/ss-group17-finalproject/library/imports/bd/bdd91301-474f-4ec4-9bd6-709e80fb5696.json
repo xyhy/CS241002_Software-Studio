@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_TakeSword_05",
+    "texture": "8df5f122-5e70-4e24-8a1f-c91fe5fdb57b",
+    "atlas": "46fb9492-2593-4562-ada5-57505c1f7dcd",
+    "rect": [
+      356,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

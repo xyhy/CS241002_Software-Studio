@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "strawberry_eaten",
+    "texture": "9584fe99-a866-4ba6-8c7e-d1a602d387b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      560,
+      748
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      748
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Platform02",
+    "texture": "308ceaf6-0f87-4237-9805-570a01958bcb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

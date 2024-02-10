@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Fx_Front_01_15",
+    "texture": "e4c31832-19b0-4815-8167-397aa46537f3",
+    "atlas": "fa835d97-b2ed-498b-bf54-eb978d6da53a",
+    "rect": [
+      0,
+      896,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

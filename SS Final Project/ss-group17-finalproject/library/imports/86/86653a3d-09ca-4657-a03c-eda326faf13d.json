@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixtogether4_LavaPlatform",
+    "texture": "ef80d393-4be0-4692-adf1-e600b13ae12e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

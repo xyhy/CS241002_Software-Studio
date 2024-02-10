@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "gate_open_sound",
+  "_objFlags": 0,
+  "_native": ".mp3",
+  "loadMode": 0
+}

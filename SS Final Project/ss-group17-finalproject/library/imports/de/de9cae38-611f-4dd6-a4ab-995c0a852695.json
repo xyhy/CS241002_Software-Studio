@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull02_Run_06",
+    "texture": "245de073-45d1-47c2-8150-0a5a57032b66",
+    "atlas": "",
+    "rect": [
+      43,
+      68,
+      38,
+      43
+    ],
+    "offset": [
+      -2,
+      -25.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

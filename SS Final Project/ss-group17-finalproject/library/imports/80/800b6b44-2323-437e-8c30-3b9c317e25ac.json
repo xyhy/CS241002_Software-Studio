@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_HitwSword_01",
+    "texture": "6993007c-3451-42f6-8cbf-e6e74059df0e",
+    "atlas": "dd99bf07-a046-41dd-ab8e-752733c2670b",
+    "rect": [
+      0,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dungeon Ruins Tileset Night",
+    "texture": "457473ec-2b62-41e1-abb7-dfb677611022",
+    "atlas": "",
+    "rect": [
+      16,
+      0,
+      496,
+      249
+    ],
+    "offset": [
+      8,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

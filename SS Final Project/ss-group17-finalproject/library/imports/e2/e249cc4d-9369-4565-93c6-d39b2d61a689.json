@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lava_ball.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "d864ca82-204a-4110-aa49-2451f9d44c83"
+    },
+    "tile001": {
+      "__uuid__": "6b2912ec-4a32-469d-b767-976da58123dc"
+    },
+    "tile002": {
+      "__uuid__": "eb465b4f-9fd8-45e4-89e8-ca7033896e38"
+    },
+    "tile003": {
+      "__uuid__": "835e1766-1b05-434f-9bbf-bebde39e68fb"
+    },
+    "tile004": {
+      "__uuid__": "fc1d9945-4e43-487e-830b-571a0ffe2116"
+    },
+    "tile005": {
+      "__uuid__": "d70fb86a-d4c7-4b3f-9569-c4140e564c67"
+    },
+    "tile006": {
+      "__uuid__": "b7320a82-1ef2-4661-bf56-e7187e106477"
+    },
+    "tile007": {
+      "__uuid__": "5fa8af38-c36b-41d2-a578-5f12ecf7e29c"
+    },
+    "tile008": {
+      "__uuid__": "861dc205-c13e-4823-91b0-1761c99fb97e"
+    },
+    "tile009": {
+      "__uuid__": "97d4bd9c-f0d4-4fb1-a40a-fb3e060a17a0"
+    },
+    "tile010": {
+      "__uuid__": "3b7f2431-e74b-4925-be14-da689aa794ca"
+    },
+    "tile011": {
+      "__uuid__": "25867fed-a508-4299-8f8c-b80f2dd25d5b"
+    },
+    "tile012": {
+      "__uuid__": "a8315747-af0f-40c2-95da-7b0943efc7de"
+    },
+    "tile013": {
+      "__uuid__": "bd2812cd-7f5d-4845-9b51-13d0b27dab5d"
+    },
+    "tile014": {
+      "__uuid__": "55c4ca7c-20d4-41e5-8dc8-413842465b00"
+    },
+    "tile015": {
+      "__uuid__": "41bc4010-e780-4de9-af85-123bb85989c5"
+    },
+    "tile016": {
+      "__uuid__": "d796ebc5-b52c-4d92-a0bd-b977f3ad9106"
+    }
+  }
+}

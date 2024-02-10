@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bg_spot.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Fx_Front_01_01": {
+      "__uuid__": "78a0c90b-874f-4b71-9d91-044621e22716"
+    },
+    "Fx_Front_01_02": {
+      "__uuid__": "32faec70-c63a-4dbd-b201-f7db4dc274e9"
+    },
+    "Fx_Front_01_03": {
+      "__uuid__": "1f985baa-f512-454a-a018-e6afdec5f995"
+    },
+    "Fx_Front_01_04": {
+      "__uuid__": "27b750f8-73d5-4dec-b528-44ae1d91a872"
+    },
+    "Fx_Front_01_05": {
+      "__uuid__": "f4056c59-c5a6-46be-be83-731b7ebebd1c"
+    },
+    "Fx_Front_01_06": {
+      "__uuid__": "4822f113-3149-4859-a91f-5de77415d8c0"
+    },
+    "Fx_Front_01_07": {
+      "__uuid__": "70b31858-87d1-4dac-9f78-916d959f1842"
+    },
+    "Fx_Front_01_08": {
+      "__uuid__": "2c855daf-37c7-4a7c-b2ec-f22c5b139257"
+    },
+    "Fx_Front_01_09": {
+      "__uuid__": "55ac76df-47cc-4538-a092-932e3745fa94"
+    },
+    "Fx_Front_01_10": {
+      "__uuid__": "294bef94-773d-4cf1-aeac-8cb08ede1c5e"
+    },
+    "Fx_Front_01_11": {
+      "__uuid__": "787606de-b94a-4ff4-9486-55e4da50cafc"
+    },
+    "Fx_Front_01_12": {
+      "__uuid__": "09264e31-205b-4c6f-b34c-cb8c650a810d"
+    },
+    "Fx_Front_01_13": {
+      "__uuid__": "5bfba807-f66d-4434-b6ab-935df0e684cc"
+    },
+    "Fx_Front_01_14": {
+      "__uuid__": "ce5225ec-d1c1-412a-bc50-5f6bc150ea9e"
+    },
+    "Fx_Front_01_15": {
+      "__uuid__": "7aeb01a4-d183-4a9d-bed7-4f02d18ed732"
+    },
+    "Fx_Front_01_16": {
+      "__uuid__": "aaea7416-e782-417b-875c-c6ed2cb437a2"
+    },
+    "Fx_Front_01_17": {
+      "__uuid__": "e5f27295-1c98-4503-86f3-a5fa26600cb8"
+    },
+    "Fx_Front_01_18": {
+      "__uuid__": "fcd6f3db-c692-4c5b-b9e2-52963b4043ba"
+    },
+    "Fx_Front_01_19": {
+      "__uuid__": "48aa1719-deee-4857-8783-3e9a764e5fd1"
+    },
+    "Fx_Front_01_20": {
+      "__uuid__": "d6dc1739-da2d-48f0-93b2-9efc69df1656"
+    },
+    "Fx_Front_01_21": {
+      "__uuid__": "a4fd6e6a-ee26-46b4-9bd6-cd15a862d123"
+    }
+  }
+}

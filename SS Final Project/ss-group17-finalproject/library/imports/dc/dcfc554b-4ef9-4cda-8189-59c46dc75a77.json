@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Spikes_08",
+    "texture": "7678aa6b-6b34-4197-bb7b-a20224198130",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      19
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      34,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

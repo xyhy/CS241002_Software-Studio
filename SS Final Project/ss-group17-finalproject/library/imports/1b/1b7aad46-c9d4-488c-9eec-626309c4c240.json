@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Wasteland_Sky",
+    "texture": "3d732b88-a2b2-439e-8100-dc7c77554421",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

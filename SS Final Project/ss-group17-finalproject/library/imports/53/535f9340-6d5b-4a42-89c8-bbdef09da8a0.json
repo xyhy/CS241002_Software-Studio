@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NinjaIdle_08",
+    "texture": "2d41fc66-e29a-418c-b989-02c20e125e58",
+    "atlas": "",
+    "rect": [
+      17,
+      19,
+      26,
+      29
+    ],
+    "offset": [
+      -2,
+      -1.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

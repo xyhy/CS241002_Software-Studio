@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jump outline",
+    "texture": "a891dc68-1d3c-4ef7-aa15-a9a169603c1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

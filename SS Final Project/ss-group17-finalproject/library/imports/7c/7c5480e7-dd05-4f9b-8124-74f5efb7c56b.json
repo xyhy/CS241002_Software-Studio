@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Skull01_Jump_02",
+    "texture": "91857143-6de3-4c3d-a585-c516d2482a58",
+    "atlas": "",
+    "rect": [
+      52,
+      77,
+      21,
+      35
+    ],
+    "offset": [
+      -1.5,
+      -30.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

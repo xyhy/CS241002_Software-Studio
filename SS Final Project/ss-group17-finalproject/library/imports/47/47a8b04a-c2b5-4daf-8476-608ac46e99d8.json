@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dungeon Ruins Tileset Day",
+    "texture": "23720aef-5216-4d03-93f5-5cbfbda8bd96",
+    "atlas": "",
+    "rect": [
+      16,
+      0,
+      496,
+      249
+    ],
+    "offset": [
+      8,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clouds",
+    "texture": "7f7a860f-8deb-47d6-8ea9-2dd3e0f4b2cc",
+    "atlas": "",
+    "rect": [
+      0,
+      56,
+      360,
+      101
+    ],
+    "offset": [
+      0,
+      -16.5
+    ],
+    "originalSize": [
+      360,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

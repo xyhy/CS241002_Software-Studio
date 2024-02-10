@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_IdlewSword_03",
+    "texture": "5e3d6134-0fba-4374-8eba-187ecc87fbb7",
+    "atlas": "09115831-a55d-413f-91f8-b781b1003f4f",
+    "rect": [
+      178,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

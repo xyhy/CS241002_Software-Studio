@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PlatformCenter",
+    "texture": "015600ad-dd7b-4a49-bf5e-9fdebbc8bcaf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

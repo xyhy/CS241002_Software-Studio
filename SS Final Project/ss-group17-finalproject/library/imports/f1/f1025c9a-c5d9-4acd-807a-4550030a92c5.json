@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pixel Art Runner",
+    "texture": "5ba37d41-4852-415e-b01f-885c8ac964da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1062,
+      616
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1062,
+      616
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

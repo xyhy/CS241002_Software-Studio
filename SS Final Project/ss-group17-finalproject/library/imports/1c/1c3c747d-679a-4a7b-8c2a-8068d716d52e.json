@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NinjaRun_03",
+    "texture": "3f654d58-b944-4d2c-b4ab-cdd90d79399c",
+    "atlas": "",
+    "rect": [
+      20,
+      17,
+      18,
+      30
+    ],
+    "offset": [
+      -3,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

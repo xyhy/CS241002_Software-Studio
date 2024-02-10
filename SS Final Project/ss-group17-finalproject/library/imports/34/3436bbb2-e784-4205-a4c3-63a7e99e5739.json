@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_Death_04",
+    "texture": "193ae7c4-a579-4a7f-ab95-35224261ac60",
+    "atlas": "19048ac6-83c1-4fd7-92c6-9ed46b2fab2a",
+    "rect": [
+      267,
+      0,
+      89,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Clean-Retro-Lines-Player",
+    "texture": "8e78cf11-e160-4fb6-b110-c315d40d9c03",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      104,
+      79
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      112,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

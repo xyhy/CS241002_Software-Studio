@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mockup",
+    "texture": "4bf2dcdf-c67b-41a6-a28f-c0c9d74aa749",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1536,
+      862
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1536,
+      862
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

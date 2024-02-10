@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wind_effect",
+    "texture": "cfb57ec6-04b0-4e18-8389-401996f872bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

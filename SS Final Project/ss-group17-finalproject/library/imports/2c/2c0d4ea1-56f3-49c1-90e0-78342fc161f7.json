@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plx-1",
+    "texture": "e5a202a6-adf8-4f14-a17a-93cb64bb06b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      384,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      384,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "spikes.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "tile000": {
+      "__uuid__": "f5d5528f-bef5-4a8e-8f10-7a97ce7f817c"
+    },
+    "tile001": {
+      "__uuid__": "723442fe-206c-4082-b497-968eec2e4fbb"
+    },
+    "tile002": {
+      "__uuid__": "bc84b2e3-d885-42bf-ace4-9ab41f7ee70d"
+    },
+    "tile003": {
+      "__uuid__": "1d5b1d8a-cb88-405e-aa36-e62f141ed70e"
+    },
+    "tile004": {
+      "__uuid__": "df3f55a0-4893-4818-bc66-7fa81bcb7760"
+    },
+    "tile005": {
+      "__uuid__": "a22be6c5-6b3d-427b-8db8-b8a38f8d8b6d"
+    },
+    "tile006": {
+      "__uuid__": "678a9173-9326-43e3-9fbf-10515c19bb80"
+    },
+    "tile007": {
+      "__uuid__": "5a0d4175-22ae-4caf-abd8-6373f9416d06"
+    },
+    "tile008": {
+      "__uuid__": "32b63dea-8f70-4216-be08-8fb8bb4a7cc6"
+    },
+    "tile009": {
+      "__uuid__": "8e4d9751-1e37-4906-9daf-0226ab57b781"
+    },
+    "tile010": {
+      "__uuid__": "0cab6ee5-f789-4a56-9b69-1c78b2be863a"
+    },
+    "tile011": {
+      "__uuid__": "09e0963f-b9af-49b9-ba0b-7957162e8f98"
+    },
+    "tile012": {
+      "__uuid__": "691e0fc4-a5c0-42bd-990b-88d60b61ff5e"
+    },
+    "tile013": {
+      "__uuid__": "7825aca8-f9dd-4183-a2b3-be07547231c8"
+    },
+    "tile014": {
+      "__uuid__": "2a4b485f-7cda-4480-9702-3d60e1dd5fb9"
+    },
+    "tile015": {
+      "__uuid__": "912214fd-9a65-49c6-8cda-3b81cb31c2c4"
+    },
+    "tile016": {
+      "__uuid__": "d1bfbaa8-a40d-4cd9-a1d4-8a850d34abc6"
+    },
+    "tile017": {
+      "__uuid__": "0985c337-706a-4463-8f49-c91b0ec6666f"
+    },
+    "tile018": {
+      "__uuid__": "59af73e1-5ae5-4aad-9769-8c49e68e0dce"
+    },
+    "tile019": {
+      "__uuid__": "eda54df3-cf9e-46ca-9fae-b06d15dfeeba"
+    },
+    "tile020": {
+      "__uuid__": "6f88378b-8fea-4a3e-9ef1-09a7c5671a06"
+    },
+    "tile021": {
+      "__uuid__": "b8568236-8a0f-43bd-b59b-7c7d67d91492"
+    },
+    "tile022": {
+      "__uuid__": "5811eef8-e6d9-49c6-8141-8ece9490ff15"
+    },
+    "tile023": {
+      "__uuid__": "7ad56084-0c2c-46f8-bea5-e619563bbdf8"
+    },
+    "tile024": {
+      "__uuid__": "477a99c1-897a-4d1c-98df-31064b95ce4e"
+    }
+  }
+}
